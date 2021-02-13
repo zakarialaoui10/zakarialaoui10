@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @zakariaalaoui10
 - 👀 I’m interested in
+
      Javascript & Python & C 
      Web & Mobile developpement(ReactNative) & Dekstop developpement(Electron.js)
      Webgl (Three.js,P5.js)
