@@ -4,6 +4,7 @@
      Javascript & Python & C & Java 
      
      Web & Mobile developpement(ReactNative) & Dekstop developpement(Electron.js)
+     
      backend:Node.js
 
      Webgl (Three.js,P5.js)
