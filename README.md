@@ -5,7 +5,7 @@
      
      Web & Mobile developpement(ReactNative) & Dekstop developpement(Electron.js)
      
-     backend:Node.js(express),flask
+     backend:Node.js(express)
 
      Webgl (Three.js,P5.js)
      
