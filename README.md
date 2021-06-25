@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  <a href="https://www.instagram.com/zakarialaoui10/">@zakariaalaoui10</a>
 - 👀 I’m interested in
 
-     Javascript & Python & C & assembly  
+     ### Javascript &  Python &  C &  assembly  
      
      Web & Mobile developpement(ReactNative) & Dekstop developpement(Electron.js)
      
