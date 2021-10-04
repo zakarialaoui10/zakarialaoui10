@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td>languages</td>
+    <td>Languages</td>
     <td><ol>
         <li>Javascript</li>
         <li>Python</li>
@@ -13,6 +13,7 @@
         <li>Assembly (Mips)</li> 
         <li>Html</li>
         <li>Css</li>
+        <li>Sql</li>
        </ol>
     </td>
     </tr>
