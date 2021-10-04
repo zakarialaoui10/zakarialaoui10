@@ -45,6 +45,17 @@
       <li>Firebase</li>
       </td>
   </tr>
+  <tr>
+    <td>CAO Eleectronique<br>&<br>Simulation<br>...</td>
+    <td><ol>
+      <li>Proteus</li>
+      <li>Multisim</li>
+      <li>LTSpice</li>
+      <li>Psim</li>
+      </td>
+  </tr>
+  
+ 
   </table>
 
 
