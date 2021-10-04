@@ -52,6 +52,13 @@
       </td>
   </tr>
   <tr>
+    <td>Package managers</td>
+    <td><ol>
+      <li>npm</li>
+      <li>pip</li>
+      </td>
+  </tr>
+  <tr>
     <td>uC</td>
     <td><ol>
       <li>Arduino</li>
