@@ -29,6 +29,10 @@
        </ol>
     </td>
  </tr>
+  <tr>
+    <td>Ide</td>
+    <td>Visual Studio Code</td>
+  </tr>
   </table>
 
 
