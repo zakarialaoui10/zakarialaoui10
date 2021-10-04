@@ -6,8 +6,14 @@
 <table>
   <tr>
     <td>languages</td>
-    <td>javascript</td>
-  </tr>
+    <td><ol>
+        <li>Javascript</li>
+        <li>Python</li>
+        <li>C</li>
+        <li>Assembly (Mips)</li>      
+       </ol>
+    </td>
+ </tr>
   </table>
 
 
