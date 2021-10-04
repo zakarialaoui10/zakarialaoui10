@@ -31,7 +31,12 @@
  </tr>
   <tr>
     <td>Ide</td>
-    <td>Visual Studio Code</td>
+    <td><ol>
+      <li>Visual Studio Code</li>
+      <li>Sublime Text</li>
+      <li>Arduino</li>
+      <li>Mars</li>
+      </td>
   </tr>
   </table>
 
