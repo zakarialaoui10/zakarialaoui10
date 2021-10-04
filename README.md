@@ -3,6 +3,12 @@
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=contribs,prs&theme=tokyonight"/>       
 </p>  
 
+<table>
+  <tr>
+    <td>languages</td>
+    <td>javascript</td>
+  </tr>
+  </table>
 
 
 
