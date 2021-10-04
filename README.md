@@ -10,7 +10,22 @@
         <li>Javascript</li>
         <li>Python</li>
         <li>C</li>
-        <li>Assembly (Mips)</li>      
+        <li>Assembly (Mips)</li> 
+        <li>Html</li>
+        <li>Css</li>
+       </ol>
+    </td>
+    </tr>
+    <tr>
+    <td>Libraries<br>&<br>Frameworks</td>
+    <td><ol>
+        <li>Three.js</li>
+        <li>Express.js</li>
+        <li>Socket.io</li>
+        <li>P5.js</li> 
+        <li>Numpy</li>
+        <li>Scipy</li>
+        <li>Matplotlib</li>
        </ol>
     </td>
  </tr>
