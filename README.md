@@ -38,6 +38,13 @@
       <li>Mars</li>
       </td>
   </tr>
+  <tr>
+    <td>Database</td>
+    <td><ol>
+      <li>Mysql</li>
+      <li>Firebase</li>
+      </td>
+  </tr>
   </table>
 
 
