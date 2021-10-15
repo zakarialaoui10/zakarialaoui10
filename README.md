@@ -29,8 +29,7 @@
         <li>Socket.io</li>
         <li>P5.js</li> 
         <li>Numpy</li>
-        <li>Scipy</li>
-        <li>Matplotlib</li>
+        <li>Matplotlib</li>      
        </ol>
     </td>
       
