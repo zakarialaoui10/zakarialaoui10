@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Version control</td>
-    <td>Git</td>
+    <td>-Git</td>
   </tr>
   <tr>
     <td>Package managers</td>
