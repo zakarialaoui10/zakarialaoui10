@@ -5,25 +5,26 @@
 		"languages": {
 			"most_used": "javascript",
 			"used": ["python", "processing", "c", "mips asm"],
-			"interested_in": ["Go"],
+			"interested_in": ["Go"]
 		},
 		"libraries and frameworks": {
 			"webgl": ["three.js", "p5.js"],
 			"data": ["numpy"],
-			"backend": ["express"],
+			"backend": ["express"]
 		},
 		"code editors and IDEs": [
 			"vs code",
 			"sublime",
 			{
-				"anaconda": ["jupyternotebook", "spyder"],
+				"anaconda": ["jupyternotebook", "spyder"]
 			},
 			"Mars",
 			"processing.ide",
-			"arduino.ide",
-		],
-	},
-};
+			"arduino.ide"
+		]
+	}
+}
+
 ```
 
 
