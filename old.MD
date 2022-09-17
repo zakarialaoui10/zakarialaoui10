@@ -93,7 +93,34 @@
 
 
 
+```json
+{
+	"name": "zakaria elalaoui",
+	"technlogies": {
+		"languages": {
+			"most_used": "javascript",
+			"used": ["python", "processing", "c", "mips asm"],
+			"interested_in": ["Go"]
+		},
+		"libraries and frameworks": {
+			"webgl": ["three.js", "p5.js"],
+			"data": ["numpy"],
+			"backend": ["express"]
+		},
+		"code editors and IDEs": [
+			"vs code",
+			"sublime",
+			{
+				"anaconda": ["jupyternotebook", "spyder"]
+			},
+			"Mars",
+			"processing.ide",
+			"arduino.ide"
+		]
+	}
+}
 
+```
 
 
 
