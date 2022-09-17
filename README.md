@@ -1,31 +1,3 @@
-```json
-{
-	"name": "zakaria elalaoui",
-	"technlogies": {
-		"languages": {
-			"most_used": "javascript",
-			"used": ["python", "processing", "c", "mips asm"],
-			"interested_in": ["Go"]
-		},
-		"libraries and frameworks": {
-			"webgl": ["three.js", "p5.js"],
-			"data": ["numpy"],
-			"backend": ["express"]
-		},
-		"code editors and IDEs": [
-			"vs code",
-			"sublime",
-			{
-				"anaconda": ["jupyternotebook", "spyder"]
-			},
-			"Mars",
-			"processing.ide",
-			"arduino.ide"
-		]
-	}
-}
-
-```
 
 
 <a href="https://www.instagram.com/zakarialaoui10/"><img src="https://img.shields.io/badge/instagram%20@zakarialaoui10-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/></a></br>
