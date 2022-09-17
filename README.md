@@ -7,6 +7,11 @@
     used:["python","processing","c","mips asm"],
     interested_in:["Go"]
     }
+    libraries_frameworks:{
+      webgl:["three.js","p5.js"],
+      data:["numpy"],
+      backend:["express"]
+    }
  }
 }
 ```
