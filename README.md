@@ -4,7 +4,7 @@
  technlogies:{
     languages:{
     most_used:"javascript",
-    used:["pyhton","processing","c","mips asm"],
+    used:["python","processing","c","mips asm"],
     interested_in:["Go"]
     }
  }
