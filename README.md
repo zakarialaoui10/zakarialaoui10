@@ -12,6 +12,16 @@
       data:["numpy"],
       backend:["express"]
     }
+    code_editors_and_IDEs:[
+    "vs code",
+    "sublime",
+    "Mars",
+    "processing.ide",
+    "arduino.ide",
+    {
+    anaconda:["jupyternotebook","spyder"]
+    }
+    ]
  }
 }
 ```
