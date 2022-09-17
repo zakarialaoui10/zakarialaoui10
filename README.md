@@ -11,16 +11,14 @@
       webgl:["three.js","p5.js"],
       data:["numpy"],
       backend:["express"]
-    }
+    },
     code_editors_and_IDEs:[
     "vs code",
     "sublime",
+    {anaconda:["jupyternotebook","spyder"]},
     "Mars",
     "processing.ide",
-    "arduino.ide",
-    {
-    anaconda:["jupyternotebook","spyder"]
-    }
+    "arduino.ide"
     ]
  }
 }
