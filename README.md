@@ -1,22 +1,22 @@
-```javascript
+```json
 {
-	name: "zakaria elalaoui",
-	technlogies: {
-		languages: {
-			most_used: "javascript",
-			used: ["python", "processing", "c", "mips asm"],
-			interested_in: ["Go"],
+	"name": "zakaria elalaoui",
+	"technlogies": {
+		"languages": {
+			"most_used": "javascript",
+			"used": ["python", "processing", "c", "mips asm"],
+			"interested_in": ["Go"],
 		},
-		libraries_frameworks: {
-			webgl: ["three.js", "p5.js"],
-			data: ["numpy"],
-			backend: ["express"],
+		"libraries and frameworks": {
+			"webgl": ["three.js", "p5.js"],
+			"data": ["numpy"],
+			"backend": ["express"],
 		},
-		code_editors_and_IDEs: [
+		"code editors and IDEs": [
 			"vs code",
 			"sublime",
 			{
-				anaconda: ["jupyternotebook", "spyder"],
+				"anaconda": ["jupyternotebook", "spyder"],
 			},
 			"Mars",
 			"processing.ide",
