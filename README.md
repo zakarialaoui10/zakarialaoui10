@@ -10,7 +10,7 @@
 ![codewars](https://www.codewars.com/users/anna_sofronova/badges/small) 
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
-![codewars](https://www.codewars.com/users/zakarialaoui10/badges/small)  
+![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small)  
         
                  
                 
