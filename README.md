@@ -6,6 +6,7 @@
  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarialaoui10&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/>
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
 </p>           
+![codewars](https://www.codewars.com/users/anna_sofronova/badges/small) 
         
                  
                 
