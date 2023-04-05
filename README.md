@@ -10,7 +10,7 @@
 ![codewars](https://www.codewars.com/users/anna_sofronova/badges/small) 
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
-![codewars](https://www.codewars.com/users/anna_sofronova/badges/small)  
+![codewars](https://www.codewars.com/users/zakarialaoui10/badges/small)  
         
                  
                 
@@ -18,6 +18,6 @@
       
 
 
- 
+ ![](https://komarev.com/ghpvc/?username=zakarialaoui10)
 
  
