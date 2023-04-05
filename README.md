@@ -12,7 +12,8 @@
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
 ![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small)  
         
-                 
+### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
+![](./profile-3d-contrib/profile-south-season-animate.svg)
                 
             
       
