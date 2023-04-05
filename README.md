@@ -7,8 +7,6 @@
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
 </p>        
 
-![codewars](https://www.codewars.com/users/anna_sofronova/badges/small) 
-
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
 ![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small)  
         
