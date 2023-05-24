@@ -11,8 +11,7 @@
 |-|-|-|-|
 |[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino]()|
 |[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino]()|
-|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Javascript#readme)|`Javascript`||[NPM]()|
-|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Python#readme)|`Python`||[PyPI]()|
+|[mapfun](https://github.com/zakarialaoui10/mapfun/)|`Javascript`<br>`Python`|mapfun is a function that applies a mapping function to an infinite number of input elements, with options to skip certain elements and selectively apply the mapping to keys and/or values of objects.|[NPM]()<br>[PyPI]()|
  
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
