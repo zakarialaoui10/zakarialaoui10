@@ -7,12 +7,12 @@
 </p>        
 
 # My Libraries
-|Library|Langage|Description|
-|-|-|-|
-|[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|Arduino library for creating and manipulating matrices of arbitrary size and data type.|
-|[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|
-|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Javascript#readme)|`Javascript`||
-|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Python#readme)|`Python`||
+|Library|Langage|Description||
+|-|-|-|-|
+|[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino]()|
+|[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino]()|
+|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Javascript#readme)|`Javascript`||[NPM]()|
+|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Python#readme)|`Python`||[PyPI]()|
  
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
