@@ -6,6 +6,13 @@
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
 </p>        
 
+# My Libraries
+|Library|Langage|Description|
+|-|-|-|
+|[ZikoMatrix]()|`c++`||
+|[PowerMonitor]()|`c++`||
+|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Javascript#readme)|`Javascript`||
+|[mapfun](https://github.com/zakarialaoui10/mapfun/tree/main/Python#readme)|`Python`||
  
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
