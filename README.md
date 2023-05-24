@@ -9,9 +9,9 @@
 # My Libraries
 |Library|Langage|Description|Other Links|
 |-|-|-|-|
-|[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino]()|
-|[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino]()|
-|[mapfun](https://github.com/zakarialaoui10/mapfun/)|`Javascript`<br>`Python`|mapfun is a function that applies a mapping function to an infinite number of input elements, with options to skip certain elements and selectively apply the mapping to keys and/or values of objects.|[NPM]()<br>[PyPI]()|
+|[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino](https://reference.arduino.cc/reference/en/libraries/zikomatrix/)|
+|[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino](https://reference.arduino.cc/reference/en/libraries/powermonitor/)|
+|[mapfun](https://github.com/zakarialaoui10/mapfun/)|`Javascript`<br>`Python`|mapfun is a function that applies a mapping function to an infinite number of input elements, with options to skip certain elements and selectively apply the mapping to keys and/or values of objects.|[NPM](https://www.npmjs.com/package/mapfun)<br>[PyPI](https://pypi.org/project/mapfun/)|
  
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
