@@ -25,7 +25,7 @@
             
       
 
-
+![](https://img.shields.io/github/followers/zakarialaoui10?style=social)
  ![](https://komarev.com/ghpvc/?username=zakarialaoui10)
 
  
