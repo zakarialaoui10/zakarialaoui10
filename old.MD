@@ -1,5 +1,14 @@
   ## 👋  Hi  
- 
+  
+```mermaid
+timeline
+    title History of Social Media Platform
+    2002 : LinkedIn
+    2004 : Facebook
+         : Google
+    2005 : Youtube
+    2006 : Twitter
+```
 
 <a href="https://www.instagram.com/zakarialaoui10/"><img src="https://img.shields.io/badge/instagram%20@zakarialaoui10-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/></a></br>
    <a href="https://web.facebook.com/ZakarialaouiEII143F.O//"><img src="https://img.shields.io/badge/facebook%20@Zakaria Elalaoui-7134AF?style=for-the-badge&logo=facebook&logoColor=white"/></a>
