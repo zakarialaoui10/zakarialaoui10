@@ -1,4 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/morocco/zakarialaoui10.svg)](https://user-badge.committers.top/morocco/zakarialaoui10)
 
 <p align="center">                                   
 <a href="https://www.instagram.com/zakarialaoui10/"><img src="https://img.shields.io/badge/instagram%20@zakarialaoui10-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -31,4 +30,5 @@
 ![](https://komarev.com/ghpvc/?username=zakarialaoui10)
 ![](https://img.shields.io/github/stars/zakarialaoui10?style=social) 
 
+[![committers.top badge](https://user-badge.committers.top/morocco/zakarialaoui10.svg)](https://user-badge.committers.top/morocco/zakarialaoui10)
  
