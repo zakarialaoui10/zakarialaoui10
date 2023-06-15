@@ -1,4 +1,4 @@
-- $\pi \approx 3.14159$
+- $\color{blue}\pi \approx 3.14159$
 - $\pm \, 0.2$
 - $\dfrac{0}{1} \neq \infty$
 - $0 < x < 1$
@@ -17,4 +17,5 @@
 - $a \Rightarrow b$
 - $a \Longrightarrow b$
 - $a \propto b$
-- $a \ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} \ b$
+- $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} \ $
+$$\color{blue}{X \sim Normal \; (\mu,\sigma^2)}$$
