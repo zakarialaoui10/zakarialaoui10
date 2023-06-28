@@ -1,5 +1,5 @@
 - $\color{blue}\pi \approx 3.14159$
-- $\pm \, 0.2$
+- $\pm \, 0.2$ 
 - $\dfrac{0}{1} \neq \infty$
 - $0 < x < 1$
 - $0 \leq x \leq 1$
