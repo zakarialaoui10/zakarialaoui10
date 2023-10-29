@@ -3,9 +3,6 @@
 <a href="https://www.instagram.com/zakarialaoui10/"><img src="https://img.shields.io/badge/instagram%20@zakarialaoui10-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
    <a href="https://web.facebook.com/100010356559195/videos/672100873970384"><img src="https://img.shields.io/badge/facebook%20@Zakaria Elalaoui-7134AF?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
    </p>
-   
-### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
-![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small) 
 
 # My Libraries
 |Library|Langage|Stars|Description|Other Links|
@@ -19,17 +16,16 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarialaoui10&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/>
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
 </p>  
- 
+
+### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
+![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small) 
         
 ### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
-                
-            
-      
 
+             
 ![](https://img.shields.io/github/followers/zakarialaoui10?style=social)
 ![](https://komarev.com/ghpvc/?username=zakarialaoui10)
 ![](https://img.shields.io/github/stars/zakarialaoui10?style=social) 
-
 [![committers.top badge](https://user-badge.committers.top/morocco/zakarialaoui10.svg)](https://user-badge.committers.top/morocco/zakarialaoui10)
  
