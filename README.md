@@ -13,6 +13,7 @@
 |[mapfun](https://github.com/zakarialaoui10/mapfun/)|`Javascript`<br>`Python`|![stars](https://img.shields.io/github/stars/zakarialaoui10/mapfun?label=%E2%AD%90&logo=%20&style=social)|mapfun is a function that applies a mapping function to an infinite number of input elements, with options to skip certain elements and selectively apply the mapping to keys and/or values of objects.|[NPM](https://www.npmjs.com/package/mapfun)<br>[PyPI](https://pypi.org/project/mapfun/)|
 
 # Stats
+<!--
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarialaoui10&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/>
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
 </p>  
@@ -28,4 +29,4 @@
 ![](https://komarev.com/ghpvc/?username=zakarialaoui10)
 ![](https://img.shields.io/github/stars/zakarialaoui10?style=social) 
 [![committers.top badge](https://user-badge.committers.top/morocco/zakarialaoui10.svg)](https://user-badge.committers.top/morocco/zakarialaoui10)
- 
+ -->
