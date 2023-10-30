@@ -18,4 +18,4 @@
 - $a \Longrightarrow b$
 - $a \propto b$
 - $x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} \ $
-$$\color{blue}{X \sim Normal \; (\mu,\sigma^2)}$$
+$$\color{blue}{X \sim Normal \; (\mu,\sigma^2)}$$ 
