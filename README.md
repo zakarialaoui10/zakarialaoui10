@@ -7,6 +7,7 @@
 # My Libraries
 |Library|Langage|Stars|Description|Other Links|
 |-|-|-|-|-|
+|[ziko.js](https://github.com/zakarialaoui10/ziko.js#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko.js?label=%E2%AD%90&logo=%20&style=social)|-|
 |[dir2tree](https://github.com/zakarialaoui10/dir2tree#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/dir2tree?label=%E2%AD%90&logo=%20&style=social)|dir2tree|[NPM](https://www.npmjs.com/package/dir2tree)
 |[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ZikoMatrix?label=%E2%AD%90&logo=%20&style=social)|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino](https://reference.arduino.cc/reference/en/libraries/zikomatrix/)|
 |[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/PowerMonitor?label=%E2%AD%90&logo=%20&style=social)|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino](https://reference.arduino.cc/reference/en/libraries/powermonitor/)|
