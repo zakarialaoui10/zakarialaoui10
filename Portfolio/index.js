@@ -1,1 +1,0 @@
-Ziko.ExtractAll()
