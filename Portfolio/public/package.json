@@ -1,15 +1,16 @@
 {
-  "name": "zakaria-elalaoui",
-  "version": "0.0.1",
+  "name": "public",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "watch": "node --watch index.js"
+    "start": "node index.js"
   },
-  "author": "zakaria elalaoui",
+  "author": "",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.18.2"
+    "ziko": "^0.1.2"
   }
 }
