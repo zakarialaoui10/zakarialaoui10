@@ -1,1 +1,37 @@
-
+zikojs:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/ziko.js
+  package : https://www.npmjs.com/package/ziko
+zikogl:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/zikogl
+  package : https://www.npmjs.com/package/ziko
+dir2tree:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/zikogl
+  package : https://www.npmjs.com/package/ziko
+ziko-wrapper:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/ziko-wrapper
+  package : https://www.npmjs.com/package/ziko
+ziko-lottie:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/ziko-lottie
+  package : https://www.npmjs.com/package/ziko
+zikodb:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/zikodb
+  package : https://www.npmjs.com/package/ziko
+ZikoMatrix:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/ziko.js
+  package : https://www.npmjs.com/package/ziko
+PowerMonitor:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/ziko.js
+  package : https://www.npmjs.com/package/ziko
+mapfun:
+  description: a versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,Reactivity,animations,client side routing and graphics capabilities
+  repositorie : https://github.com/zakarialaoui10/ziko.js
+  package : https://www.npmjs.com/package/ziko
+  others : 
