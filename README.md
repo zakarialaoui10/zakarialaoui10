@@ -24,7 +24,7 @@
 <!--
 
 ## Npm
- ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/zakarialaoui10)
+ ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/zakarialaoui10?label=All%20packages)
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
 ![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small) 
