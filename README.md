@@ -17,14 +17,14 @@
 ### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 # Stats
+## NPM 
+  ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/zakarialaoui10?label=All%20packages)
+## Github
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarialaoui10&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/>
 
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
-</p>  
+</p> 
 <!--
-
-## Npm
- ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/zakarialaoui10?label=All%20packages)
 
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
 ![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small) 
