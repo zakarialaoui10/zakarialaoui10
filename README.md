@@ -13,6 +13,7 @@
 |[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ZikoMatrix?label=%E2%AD%90&logo=%20&style=social)|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino](https://reference.arduino.cc/reference/en/libraries/zikomatrix/)|
 |[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/PowerMonitor?label=%E2%AD%90&logo=%20&style=social)|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino](https://reference.arduino.cc/reference/en/libraries/powermonitor/)|
 |[mapfun](https://github.com/zakarialaoui10/mapfun/)|`Javascript`<br>`Python`|![stars](https://img.shields.io/github/stars/zakarialaoui10/mapfun?label=%E2%AD%90&logo=%20&style=social)|mapfun is a function that applies a mapping function to an infinite number of input elements, with options to skip certain elements and selectively apply the mapping to keys and/or values of objects.|[NPM](https://www.npmjs.com/package/mapfun)<br>[PyPI](https://pypi.org/project/mapfun/)|
+
 ### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
 ![](./profile-3d-contrib/profile-south-season-animate.svg)
 # Stats
@@ -21,6 +22,10 @@
  <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
 </p>  
 <!--
+
+## Npm
+ ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/zakarialaoui10)
+
 ### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
 ![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small) 
         
