@@ -15,7 +15,7 @@
 ## Others
 |Library|Langage|Stars|Description|Other Links|
 |-|-|-|-|-|
-|[dir2tree](https://github.com/zakarialaoui10/dir2tree#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/dir2tree?label=%E2%AD%90&logo=%20&style=social)|dir2tree|[NPM](https://www.npmjs.com/package/dir2tree)
+|[dir2tree](https://github.com/zakarialaoui10/dir2tree#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/dir2tree?label=%E2%AD%90&logo=%20&style=social)|A user-friendly Node.js tool for creating organized json tree from a root directory |[NPM](https://www.npmjs.com/package/dir2tree)
 |[fetch-doc](https://github.com/zakarialaoui10/fetch-doc#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/fetch-doc?label=%E2%AD%90&logo=%20&style=social)|Fetch and parse HTML documents asynchronously and synchronously|[NPM](https://www.npmjs.com/package/fetch-doc)|
 |[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ZikoMatrix?label=%E2%AD%90&logo=%20&style=social)|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino](https://reference.arduino.cc/reference/en/libraries/zikomatrix/)|
 |[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/PowerMonitor?label=%E2%AD%90&logo=%20&style=social)|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino](https://reference.arduino.cc/reference/en/libraries/powermonitor/)|
