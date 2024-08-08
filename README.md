@@ -9,7 +9,7 @@
 |Library|Langage|Stars|Description|Other Links|
 |-|-|-|-|-|
 |[ziko.js](https://github.com/zakarialaoui10/ziko.js#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko.js?label=%E2%AD%90&logo=%20&style=social)|-|
-|[ziko-wrapper](https://github.com/zakarialaoui10/ziko-wrapper#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-wrapper?label=%E2%AD%90&logo=%20&style=social)|-|
+|[ziko-wrapper](https://github.com/zakarialaoui10/ziko-wrapper#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-wrapper?label=%E2%AD%90&logo=%20&style=social)| Embed zikojs elements within various frameworks like `React`, `Svelte`, `Vue` ...|
 |[zikogl](https://github.com/zakarialaoui10/zikogl#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/zikogl?label=%E2%AD%90&logo=%20&style=social)|-|
 |[ziko-lottie](https://github.com/zakarialaoui10/ziko-lottie#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-lottie?label=%E2%AD%90&logo=%20&style=social)|-|
 ## Others
