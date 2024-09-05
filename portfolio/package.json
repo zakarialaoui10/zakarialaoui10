@@ -1,0 +1,20 @@
+{
+  "name": "portfolio",
+  "type": "module",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^3.1.5",
+    "@astrojs/preact": "^3.5.2",
+    "astro": "^4.15.2",
+    "svelte": "^4.2.19",
+    "ziko": "^0.0.12",
+    "ziko-wrapper": "^0.0.7"
+  }
+}

@@ -1,0 +1,9 @@
+---
+import CollapsibleComponent from "./Collapsible.jsx";
+const { qst = "What is zikojs"  , rep = "zikojs is a" } = Astro.props;
+---
+ <section id = "kkd">
+    <CollapsibleComponent client:load {qst} {rep}  />
+    <CollapsibleComponent client:load {qst} {rep}  />
+    <CollapsibleComponent client:load {qst} {rep}  />
+ </section>
