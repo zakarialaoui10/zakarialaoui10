@@ -1,5 +1,6 @@
 ---
 import Preact from "../component/Preact.astro"
+import Hydratic from "../component/Hydratic.astro"
 ---
 
 <html lang="en">
@@ -13,5 +14,6 @@ import Preact from "../component/Preact.astro"
 	<body>
 		<h1>Astro</h1>
 		<Preact client:load />
+		<Hydratic client:load>
 	</body>
 </html>
