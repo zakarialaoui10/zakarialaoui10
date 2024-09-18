@@ -10,10 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/mdx": "^3.1.5",
-    "@astrojs/preact": "^3.5.2",
-    "astro": "^4.15.2",
-    "svelte": "^4.2.19",
-    "ziko": "^0.0.12"
+    "@astrojs/mdx": "^3.1.6",
+    "@astrojs/preact": "^3.5.3",
+    "astro": "^4.15.7",
+    "ziko": "^0.0.13",
+    "ziko-wrapper": "^0.0.9"
   }
 }

@@ -1,5 +1,4 @@
 ---
-import Preact from "../component/Preact.astro"
 import Hydratic from "../component/Hydratic.astro"
 ---
 
@@ -13,7 +12,9 @@ import Hydratic from "../component/Hydratic.astro"
 	</head>
 	<body>
 		<h1>Astro</h1>
-		<Preact client:load />
-		<Hydratic client:load>
+		<Hydratic client:only/>
+		<h1>Astro</h1>
+		<Hydratic client:only/>
+		<h1>Astro</h1>
 	</body>
 </html>
