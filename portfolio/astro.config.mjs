@@ -3,9 +3,7 @@ import mdx from '@astrojs/mdx';
 import preact from '@astrojs/preact'
 export default defineConfig({
   integrations: [
-    mdx(),
-    preact({
-      compat : true
-    })
-    ],
+    preact({compat : true}),
+    mdx()
+  ],
 })
