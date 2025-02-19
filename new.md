@@ -4,6 +4,15 @@
 - [Contacts](#contacts)
 - [Statistics](#statistics)
 
+# My Skills
+[![Web](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=threejs,p5js)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=astro,react,vite,rollup)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=md,mdx)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=github,git,bash,npm,githubactions)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=c,cpp,arduino)](https://skillicons.dev)
+[![Web](https://skillicons.dev/icons?i=python,anaconda,processing)](https://skillicons.dev)
 
 # My Libraries
 ## Zikojs Ecosystem
