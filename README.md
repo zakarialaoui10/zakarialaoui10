@@ -1,9 +1,11 @@
 <!-- 
 Doc
 Hits 
-add ziko-server astro
+add ziko-server astro 
 update 
-k-o-d ?
+k-o-d 
+fix addons
+?
  --> 
 <p align="center">                                                    
 <a             href="https://www.instagram.com/zakarialaoui10/"><img src="https://img.shields.io/badge/instagram%20@zakarialaoui10-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
