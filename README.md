@@ -3,7 +3,7 @@ Doc
 Hits 
 add ziko-server astro 
 update 
-k-o-d  
+k-o-d 
 fix addons   
 ?
  --> 
