@@ -22,6 +22,7 @@ fix addons
 |[ziko-gl](https://github.com/zakarialaoui10/zikogl#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/zikogl?label=%E2%AD%90&logo=%20&style=social)|A [ziko-gl](https://github.com/zakarialaoui10/ziko.js) plugin built on the top of [Threejs](https://threejs.org/)|[NPM](https://www.npmjs.com/package/zikogl)
 |[mdjs](https://github.com/zakarialaoui10/mdzjs)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/mdzjs?label=%E2%AD%90&logo=%20&style=social)|Markdown for Zikojs|[NPM](https://www.npmjs.com/package/mdzjs)
 |[ziko-lottie](https://github.com/zakarialaoui10/ziko-lottie#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-lottie?label=%E2%AD%90&logo=%20&style=social)|Lottie player element for zikojs|[NPM](https://www.npmjs.com/package/ziko-lottie)
+
 ## Others
 |Library|Langage|Stars|Description|Other Links|
 |-|-|-|-|-|
