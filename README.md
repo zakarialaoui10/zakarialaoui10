@@ -4,7 +4,7 @@ Hits
 add ziko-server astro 
 update 
 k-o-d  
-fix addons   
+fix addons events
 e-mui 
 ?   
  --> 
