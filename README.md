@@ -6,7 +6,7 @@ update
 k-o-d  
 fix addons events
 e-mui 
-e-excalidraw
+e-excalidraw 
 ?    
  --> 
 <p align="center">                                                     
