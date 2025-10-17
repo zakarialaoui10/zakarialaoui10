@@ -1,0 +1,33 @@
+# Requirements
+ - Meta Framework : Astro
+ - UI Framework : Zikojs
+ - UI Components :
+   - zextra
+   - menyz
+ - Serverless Db : Neon
+ - Auth Provider : Clerk
+ - Content
+   - Md
+   - Mdx
+   - Mdz
+ - Comments
+   - Giscus
+ - Libraries
+   - ziko-tgl
+   - ziko-lucide
+   - ...
+# Structure
+ - /public
+ - /src
+   - layouts
+   - themes
+   - content
+     - blog/
+        - /en
+        - /fr
+        - /ar
+        - /dr
+   - db
+   - i18n
+   - components
+   - pages
