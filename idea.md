@@ -14,7 +14,7 @@
    - Giscus
  - Libraries
    - ziko-tgl
-   - ziko-lucide
+   - ziko-lucide 
    - ...
 # Structure
  - /public
