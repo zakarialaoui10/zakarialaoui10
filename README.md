@@ -7,7 +7,7 @@ update
 k-o-d   
 fix addons events  
 e-mui => ziko-mui 
-e-excalidraw 
+e-excalidraw  
 portfolio ? 
 p5.wrapper  
 numz ( special func ) 
