@@ -12,7 +12,7 @@ portfolio ?
 p5.wrapper  
 numz ( special func )  
 wp 
-closed  
+closed   
 ?         
  --> 
 <p align="center">                                                      
