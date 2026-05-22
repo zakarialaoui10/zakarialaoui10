@@ -1,0 +1,36 @@
+---
+interface Props {
+  currentLocale: string;
+}
+const { currentLocale = "en" } = Astro.props;
+const languages = [
+  { code: 'en', label: 'English' },
+  { code: 'ar', label: 'العربية' },
+  { code: 'fr', label: 'Français' },
+  { code: 'es', label: 'Español' }
+];
+---
+<select id="global-language-selector" class="lang-switcher-dropdown" aria-label="Select Interface Language">
+    {languages.map((lang) => (
+        <option value={lang.code} selected={lang.code === currentLocale}>
+        {lang.label}
+        </option>
+    ))}
+</select>
+
+<style>
+.lang-switcher-dropdown {
+    background-color: var(--bg-modal);
+    border: 1px solid var(--border-card);
+    color: var(--text-nav);
+    font-family: var(--font-sans);
+    font-size: 0.85rem;
+    font-weight: 600;
+    height: 38px;
+    padding-inline-start: 0.5rem;
+    padding-inline-end: 1.5rem;
+    border-radius: 6px;
+    cursor: pointer;
+    outline: none;
+}
+</style>

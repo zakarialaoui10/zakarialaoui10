@@ -1,8 +1,7 @@
 ---
-// src/pages/[locale]/index.astro
 import BaseLayout from '@layouts/BaseLayout.astro';
+import dictionary from '@translations/portfolio.json' with { type : "json" }
 
-// 1. Generate standard routes for your supported locales
 export function getStaticPaths() {
   return [
     { params: { locale: 'en' } },
@@ -12,27 +11,6 @@ export function getStaticPaths() {
 
 const { locale } = Astro.params;
 
-// 2. Define your content vocabulary mapping 
-const dictionary = {
-  en: {
-    title: "Developer Portfolio",
-    heroTitle: "Building Seamless Interactive Web Applications",
-    aboutTitle: "About Me",
-    projectsTitle: "Recent Deployments",
-    navHome: "Home",
-    navAbout: "About",
-    navProjects: "Projects"
-  },
-  ar: {
-    title: "ملف المطور الشخصي",
-    heroTitle: "بناء تطبيقات ويب تفاعلية وسلسة",
-    aboutTitle: "من أنا",
-    projectsTitle: "المشاريع الحالية",
-    navHome: "الرئيسية",
-    navAbout: "تفاصيل",
-    navProjects: "المشاريع"
-  }
-};
 
 // Fallback to English safety defaults if localization gets lost
 const ui = dictionary[locale as keyof typeof dictionary] || dictionary.en;

@@ -1,4 +1,5 @@
 ---
+import { LanguageSelector } from '@components/base';
 // src/layouts/BaseLayout.astro
 interface Props {
   title: string;
@@ -11,6 +12,7 @@ const { currentLocale } = Astro;
 // Compute writing alignment dynamically
 const isRTL = currentLocale === 'ar';
 const dir = isRTL ? 'rtl' : 'ltr';
+
 ---
 
 <!DOCTYPE html>
@@ -24,7 +26,7 @@ const dir = isRTL ? 'rtl' : 'ltr';
     <style is:global>
       @import url("@styles/root.css");
       
-    
+
       body.search-modal-open {
         overflow: hidden;
       }
@@ -32,7 +34,7 @@ const dir = isRTL ? 'rtl' : 'ltr';
       .nav-header {
         position: fixed;
         top: 0;
-        inset-inline-start: 0; /* Replaces left: 0 / right: 0 seamlessly */
+        inset-inline-start: 0;
         width: 100%;
         height: var(--nav-height);
         z-index: 100;
@@ -52,8 +54,8 @@ const dir = isRTL ? 'rtl' : 'ltr';
       .layout-container {
         width: 100%;
         max-width: 1200px;
-        margin-inline: auto; /* Handles horizontal centering automatically */
-        padding-inline: 1.5rem; /* Dual directional padding axis */
+        margin-inline: auto;
+        padding-inline: 1.5rem;
       }
 
       .flex-row-between {
@@ -117,7 +119,7 @@ const dir = isRTL ? 'rtl' : 'ltr';
         border-radius: 2px;
         pointer-events: none;
         will-change: transform, width;
-        transition: transform var(--transition-speed) var(--transition-timing), width var(--transition-speed) var(--transition-timing);
+        transition: transform var(--transition-speed) var(--transition-timing), width var(--transition-speed) var(--transition-timing), opacity var(--transition-speed) var(--transition-timing);
       }
 
       .nav-icon-btn {
@@ -189,6 +191,37 @@ const dir = isRTL ? 'rtl' : 'ltr';
         border-radius: 4px;
       }
 
+      /* Language Dropdown Custom Styles */
+      /* .lang-switcher-dropdown {
+        background-color: var(--bg-modal);
+        border: 1px solid var(--border-card);
+        color: var(--text-nav);
+        font-family: var(--font-sans);
+        font-size: 0.85rem;
+        font-weight: 600;
+        height: 38px;
+        padding-inline-start: 0.5rem;
+        padding-inline-end: 1.5rem;
+        border-radius: 6px;
+        cursor: pointer;
+        outline: none;
+        appearance: none;
+        background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='gray' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'><path d='m6 9 6 6 6-6'/></svg>");
+        background-repeat: no-repeat;
+        background-position: cubic-bezier(0,0,1,1) right 0.5rem center;
+        width: stretch;
+      } */
+
+      html[dir="rtl"] .lang-switcher-dropdown {
+        background-position: left 0.5rem center;
+        padding-inline-start: 1.5rem;
+        padding-inline-end: 0.5rem;
+      }
+
+      .lang-switcher-dropdown:focus {
+        border-color: var(--accent-color);
+      }
+
       .search-modal-overlay {
         position: fixed;
         top: 0;
@@ -247,7 +280,6 @@ const dir = isRTL ? 'rtl' : 'ltr';
         align-items: center;
       }
 
-      /* Using native modern logical definitions for safe input layouts */
       .search-input-field {
         width: 100%;
         background-color: var(--bg-search-input);
@@ -357,18 +389,6 @@ const dir = isRTL ? 'rtl' : 'ltr';
         border-radius: 8px;
       }
 
-      .language-switcher-link {
-        font-weight: 700;
-        text-decoration: none;
-        color: var(--accent-color);
-        padding-block: 0.35rem;
-        padding-inline: 0.65rem;
-        border: 1px solid var(--accent-color);
-        border-radius: 4px;
-        font-size: 0.85rem;
-        text-transform: uppercase;
-      }
-
       @media (min-width: 768px) {
         .layout-container { padding-inline: 3rem; }
         .portfolio-section { padding-block: var(--nav-height) 0; }
@@ -404,7 +424,6 @@ const dir = isRTL ? 'rtl' : 'ltr';
     </style>
 
     <script is:inline>
-      // Sync dark mode configuration safely inline to stop visual flashes
       const currentPersistedTheme = () => {
         const localChoice = localStorage.getItem('theme');
         if (localChoice) return localChoice;
@@ -422,6 +441,7 @@ const dir = isRTL ? 'rtl' : 'ltr';
         <div class="nav-controls">
           <div id="mobile-menu-drawer" class="nav-menu-wrapper">
             <slot name="nav-links" />
+            <div id="moving-nav-slider" class="nav-indicator-slider"></div>
           </div>
 
           <button id="search-modal-open-btn" class="search-bar-trigger" aria-label="Open global search">
@@ -436,13 +456,17 @@ const dir = isRTL ? 'rtl' : 'ltr';
             <svg class="icon-sun" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2"/><path d="M12 20v2"/><path d="m4.93 4.93 1.41 1.41"/><path d="m17.66 17.66 1.41 1.41"/><path d="M2 12h2"/><path d="M20 12h2"/><path d="m6.34 17.66-1.41 1.41"/><path d="m19.07 4.93-1.41 1.41"/></svg>
             <svg class="icon-moon" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"/></svg>
           </button>
+
+          <LanguageSelector currentLocale={currentLocale}/>
           
-          <!-- Explicit dynamic language alternate toggle -->
-          {currentLocale === 'en' ? (
-            <a href="/ar" class="language-switcher-link">العربية</a>
-          ) : (
-            <a href="/" class="language-switcher-link">English</a>
-          )}
+          <!-- Native Multilingual Dropdown Selection Object -->
+          <!-- <select id="global-language-selector" class="lang-switcher-dropdown" aria-label="Select Interface Language">
+            {languages.map((lang) => (
+              <option value={lang.code} selected={lang.code === currentLocale}>
+                {lang.label}
+              </option>
+            ))}
+          </select> -->
 
           <button id="burger-menu-toggle" class="burger-trigger" aria-label="Toggle navigation interface" aria-expanded="false">
             <span class="burger-bar"></span>
@@ -481,6 +505,27 @@ const dir = isRTL ? 'rtl' : 'ltr';
       const navMenu = document.getElementById('mobile-menu-drawer');
       const themeToggleBtn = document.getElementById('theme-switcher-btn');
       const movingSlider = document.getElementById('moving-nav-slider');
+      const langSelector = document.getElementById('global-language-selector') as HTMLSelectElement | null;
+
+      // Track all locales explicitly to cleanly strip existing prefixes out during routing transitions
+      const SUPPORTED_LOCALES = ['en', 'ar', 'fr', 'es'];
+
+      // Language Switcher Logic: Preserves the page context path and switches prefix
+      langSelector?.addEventListener('change', (e) => {
+        const targetLocale = (e.target as HTMLSelectElement).value;
+        const currentSegments = window.location.pathname.split('/').filter(Boolean);
+        
+        // Remove existing language prefix if present
+        if (SUPPORTED_LOCALES.includes(currentSegments[0])) {
+          currentSegments.shift();
+        }
+
+        const remainingPath = currentSegments.join('/');
+        const hash = window.location.hash;
+        
+        // Form pristine localized destination path matrix matching project layout routing
+        window.location.href = `/${targetLocale}/${remainingPath}${hash}`;
+      });
 
       // Modal Setup
       const searchOpenBtn = document.getElementById('search-modal-open-btn');
@@ -532,7 +577,6 @@ const dir = isRTL ? 'rtl' : 'ltr';
         document.documentElement.setAttribute('data-theme', nextTheme);
         localStorage.setItem('theme', nextTheme);
         
-        // Let position adjust slightly if slider calculation shifts across theme switches
         setTimeout(() => {
           const currentActiveLink = document.querySelector('#mobile-menu-drawer a.is-active') as HTMLElement;
           if (currentActiveLink && window.innerWidth >= 768) updateSliderPosition(currentActiveLink);
@@ -552,7 +596,6 @@ const dir = isRTL ? 'rtl' : 'ltr';
             
             const isRtl = document.documentElement.getAttribute('dir') === 'rtl';
             
-            // Computes translation offsets relative to the layout boundary matrix context
             const translationValue = isRtl 
               ? containerRect.right - linkRect.right 
               : linkRect.left - containerRect.left;
@@ -580,7 +623,6 @@ const dir = isRTL ? 'rtl' : 'ltr';
 
             navLinks.forEach((link) => {
               const hrefAttribute = link.getAttribute('href');
-              // Validate hash strings against localized path configurations correctly
               if (hrefAttribute && hrefAttribute.endsWith(`#${sectionId}`)) {
                 link.classList.add('is-active');
                 matchedLink = link as HTMLElement;
