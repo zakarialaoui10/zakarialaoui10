@@ -13,6 +13,7 @@ p5.wrapper
 numz ( special func )  
 wp 
 closed     
+rm portfolio ? 
 ?          
  --> 
 <p align="center">                                                      
