@@ -2,7 +2,7 @@
 daisy 
 Doc      
 Hits    
-add ziko-server astro  
+add ziko-server astro   
 update    
 k-o-d   
 fix addons events  
