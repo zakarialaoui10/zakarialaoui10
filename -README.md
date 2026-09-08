@@ -1,0 +1,70 @@
+<!-- 
+daisy 
+Doc      
+Hits    
+add ziko-server astro   
+update    
+k-o-d   
+fix addons events  
+e-mui => ziko-mui 
+e-excalidraw  
+portfolio ?  
+p5.wrapper  
+numz ( special func )  
+wp   
+closed   
+rm portfolio ?     
+?          
+ --> 
+<p align="center">                                                      
+<a             href="https://www.instagram.com/zakarialaoui10/"><img src="https://img.shields.io/badge/instagram%20@zakarialaoui10-8134AF?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+   <a href="https://web.facebook.com/100010356559195/videos/672100873970384"><img src="https://img.shields.io/badge/facebook%20@Zakaria Elalaoui-7134AF?style=for-the-badge&logo=facebook&logoColor=white"/></a> 
+   </p>
+  
+
+# My Libraries
+## Ziko Based Libraries 
+|Library|Langage|Stars|Description|Other Links|
+|-|-|-|-|-|
+|[zikojs](https://github.com/zakarialaoui10/ziko.js#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/zikojs?label=%E2%AD%90&logo=%20&style=social)|A versatile JavaScript library offering a rich set of UI components, advanced mathematical utilities,reactivity,animations,client side routing and graphics capabilities|[NPM](https://www.npmjs.com/package/ziko)
+|[ziko-server](https://github.com/zakarialaoui10/ziko-server#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-server?label=%E2%AD%90&logo=%20&style=social)| Server-side rendering for Zikojs with file-based routing and client-side hydration.|[NPM](https://www.npmjs.com/package/ziko-server)
+|[zextra](https://github.com/zakarialaoui10/ziko-wrapper#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/zextra?label=%E2%AD%90&logo=%20&style=social)| Extra components and utilities for zikojs|[NPM](https://www.npmjs.com/package/ziko-server)
+|[ziko-wrapper](https://github.com/zakarialaoui10/ziko-wrapper#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-wrapper?label=%E2%AD%90&logo=%20&style=social)| Embed zikojs elements within various frameworks like `React`, `Svelte`, `Vue` ...|[NPM](https://www.npmjs.com/package/ziko-wrapper)
+|[ziko-tgl](https://github.com/zakarialaoui10/zikogl#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/zikogl?label=%E2%AD%90&logo=%20&style=social)|A [zikojs](https://github.com/zakarialaoui10/ziko.js) plugin built on the top of [Threejs](https://threejs.org/)|[NPM](https://www.npmjs.com/package/zikogl)
+|[mdzjs](https://github.com/zakarialaoui10/mdzjs)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/mdzjs?label=%E2%AD%90&logo=%20&style=social)|Markdown for Zikojs|[NPM](https://www.npmjs.com/package/mdzjs)
+|[ziko-lucide](https://github.com/zakarialaoui10/ziko-lucide#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-lottie?label=%E2%AD%90&logo=%20&style=social)|Lucide Icons for ZikoJs|[NPM](https://www.npmjs.com/package/ziko-lucide)
+|[ziko-lottie](https://github.com/zakarialaoui10/ziko-lottie#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ziko-lottie?label=%E2%AD%90&logo=%20&style=social)|Lottie player element for zikojs|[NPM](https://www.npmjs.com/package/ziko-lottie)
+
+
+## Others
+|Library|Langage|Stars|Description|Other Links|
+|-|-|-|-|-|
+|[dir2tree](https://github.com/zakarialaoui10/dir2tree#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/dir2tree?label=%E2%AD%90&logo=%20&style=social)|A user-friendly Node.js tool for creating organized json tree from a root directory |[NPM](https://www.npmjs.com/package/dir2tree)
+|[fetch-doc](https://github.com/zakarialaoui10/fetch-doc#readme)|`Javascript`|![starts](https://img.shields.io/github/stars/zakarialaoui10/fetch-doc?label=%E2%AD%90&logo=%20&style=social)|Fetch and parse HTML documents asynchronously and synchronously|[NPM](https://www.npmjs.com/package/fetch-doc)|
+|[ZikoMatrix](https://github.com/zakarialaoui10/ZikoMatrix#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/ZikoMatrix?label=%E2%AD%90&logo=%20&style=social)|Arduino library for creating and manipulating matrices of arbitrary size and data type.|[Arduino](https://reference.arduino.cc/reference/en/libraries/zikomatrix/)|
+|[PowerMonitor](https://github.com/zakarialaoui10/PowerMonitor#readme)|`c++`|![starts](https://img.shields.io/github/stars/zakarialaoui10/PowerMonitor?label=%E2%AD%90&logo=%20&style=social)|Designed to measure the electrical characteristics of AC circuits such as voltage, current, power, reactive power, and power factor...|[Arduino](https://reference.arduino.cc/reference/en/libraries/powermonitor/)|
+|[mapfun](https://github.com/zakarialaoui10/mapfun/)|`Javascript`<br>`Python`|![stars](https://img.shields.io/github/stars/zakarialaoui10/mapfun?label=%E2%AD%90&logo=%20&style=social)|mapfun is a function that applies a mapping function to an infinite number of input elements, with options to skip certain elements and selectively apply the mapping to keys and/or values of objects.|[NPM](https://www.npmjs.com/package/mapfun)<br>[PyPI](https://pypi.org/project/mapfun/)|
+### ℂ𝕠𝕟𝕥𝕣𝕚𝕓𝕦𝕥𝕚𝕠𝕟𝕤: 
+![](./profile-3d-contrib/profile-south-season-animate.svg)
+# Stats
+## NPM 
+  ![NPM Downloads by package author](https://img.shields.io/npm-stat/dy/zakarialaoui10?label=All%20packages)
+## Github
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakarialaoui10&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&show_icons=true%22"/>
+
+ <img src="https://github-readme-stats.vercel.app/api?username=zakarialaoui10&hide=issues&theme=tokyonight"/>       
+</p> 
+<!--
+
+### ⚔️ ℂ𝕠𝕕𝕖𝕎𝕒𝕣𝕤:  
+![codewars](https://www.codewars.com/users/zakariaalaoui10/badges/small) 
+        
+
+
+             
+![](https://img.shields.io/github/followers/zakarialaoui10?style=social)
+![](https://komarev.com/ghpvc/?username=zakarialaoui10)
+![](https://img.shields.io/github/stars/zakarialaoui10?style=social) 
+[![committers.top badge](https://user-badge.committers.top/morocco/zakarialaoui10.svg)](https://user-badge.committers.top/morocco/zakarialaoui10)
+ -->
+ 
