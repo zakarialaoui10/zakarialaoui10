@@ -8,7 +8,7 @@
 |[zikojs/mdx]|MDX support for ZikoJS, including Vite integration and syntax highlighting adapters.|![mdx]![vite-plugin-mdx]![mdx-highlightjs-adapter]![mdx-prismjs-adapter]|
 |[zikojs/integrations]|Integrations that bring ZikoJS components and applications to popular frontend frameworks and platforms.|![astro]![react]![preact]![solid]![svelte]![vue]
 |[zikojs/three]|Three.js integration for creating 3D experiences with ZikoJS.|![three]|
-|[zikojs/p5]|p5.js integration for creating interactive graphics and creative coding applications with ZikoJS.|![p5js]|
+<!-- |[zikojs/p5]|p5.js integration for creating interactive graphics and creative coding applications with ZikoJS.|![p5js]| -->
 |[zikojs/chart]|Charting and data visualization components powered by ZikoJS.|![chart]|
 |[zikojs/addons]|A collection of integrations and extensions connecting ZikoJS with popular libraries and tools.|![lucide]![gsap]![mermaid]![lottie]![atropos]|
 
@@ -19,7 +19,7 @@
   [zikojs/server]: https://github.com/zikojs/server
   [zikojs/mdx]: https://github.com/zikojs/mdx
   [zikojs/integrations]: https://github.com/zikojs/integrations
-  [zikojs/three]: https://github.com/zikojs/three
+  [zikojs/three]: https://github.com/zakarialaoui10/ziko-tgl
   [zikojs/p5]: https://github.com/zikojs/p5
   [zikojs/chart]: https://github.com/zikojs/chart
   [zikojs/addons]: https://github.com/zikojs/addons
