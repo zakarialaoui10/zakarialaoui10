@@ -1,4 +1,4 @@
-## Zikojs Ecosystem 
+## Zikojs Ecosystem. 
    
 |Repository|Description|Packages|
 |-|-|-|  
