@@ -1,7 +1,7 @@
 ## Zikojs Ecosystem.   
      
 |Repository|Description|Packages| 
-|-|-|-|  
+|-|-|-|   
 |[zikojs/ziko]|The core ZikoJS framework and its official development tools.|![ziko]![create-ziko]![jsx]![html]![vite-plugin-jsx]|
 |[zikojs/zextra]|A collection of reusable UI components and utilities built on top of ZikoJS.|![zextra]|
 |[zikojs/server]|Server-side tools, HTTP utilities, and integrations for building ZikoJS applications.|![server]![http]![express]![koa]![fastify]![polka]|
